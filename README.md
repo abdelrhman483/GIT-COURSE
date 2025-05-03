@@ -1,2 +1,2 @@
 # GIT-COURSE
-WELCOME
+##project notes
